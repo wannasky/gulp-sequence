@@ -1,8 +1,7 @@
 {
   "name": "@wannasky/gulp-sequence",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
+  "version": "1.0.2",
+  "description": "同步或异步执行gulp多任务",
   "author": "wannasky",
   "license": "MIT",
   "repository": {

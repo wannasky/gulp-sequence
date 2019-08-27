@@ -1,0 +1,15 @@
+{
+  "name": "@wannasky/gulp-sequence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "wannasky",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wannasky/gulp-sequence.git"
+  },
+  "peerDependencies": {
+    "gulp": ">=4.0.0"
+  }
+}
